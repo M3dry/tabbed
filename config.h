@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[]        = "mononoki Nerd Font Mono:size=9:antialias=true:autohint=true";
+static const char font[]        = "Operator Mono SSm Lig Nerd Font:size=9:antialias=true:autohint=true";
 static const char* normbgcolor  = "#111111";
 static const char* normfgcolor  = "#b7b7b7";
 static const char* selbgcolor   = "#51afef";
